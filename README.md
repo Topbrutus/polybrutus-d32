@@ -24,6 +24,15 @@ python tests/independent_d32.py
 
 Both report identical SHA-256 of deterministic `results/certificate_d32.json`. The full frozen parent D31 scientific source, including ancestral sources, is archived under `prior/d31/` as ordinary files without a nested Git submodule.
 
+## Official DOI and verified scientific release
+
+- **Official DOI:** [10.5281/zenodo.24411375](https://doi.org/10.5281/zenodo.24411375).
+- **Public Zenodo record:** https://zenodo.org/records/24411375, 3/3 release files verified against sizes and MD5 through the public Zenodo API.
+- **Frozen scientific source tag:** [v0.1.0](https://github.com/Topbrutus/polybrutus-d32/tree/v0.1.0), commit `cb63ed7ab447b13e251d92571fe0f1062db31cca`.
+- **Tag CI:** [GitHub Actions run 44866520771](https://github.com/Topbrutus/polybrutus-d32/actions/runs/44866520771), success.
+- **Memoria checkpoint:** https://github.com/Topbrutus/topbrutus_one/blob/main/memoria/checkpoints/POLYBRUTUS_D32_PUBLICATION_2026-11-20.md .
+- **Publication index:** https://github.com/Topbrutus/topbrutus_one/blob/main/memoria/projects/POLYBRUTUS_X72_PUBLICATIONS_INDEX.md .
+
 ## Scientific files
 
 - [Exact specification](SPECIFICATION_D32.md), [proof and adversarial checks](PREUVE_D32.md), [provenance and limitations](PROVENANCE.md).

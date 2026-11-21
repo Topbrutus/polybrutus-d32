@@ -10,3 +10,5 @@ date-released: 2026-11-20
 license: MIT
 repository-code: https://github.com/Topbrutus/polybrutus-d32
 abstract: "Exact 37-point Euclidean labelled metric conserving 630 parent distances and a separately chosen ideal weighted graph."
+doi: 10.5281/zenodo.24411375
+url: https://doi.org/10.5281/zenodo.24411375

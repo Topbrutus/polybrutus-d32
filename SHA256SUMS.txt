@@ -1,0 +1,5 @@
+# SHA-256 checksums of the three released files in Zenodo record 24411375
+# Frozen source ZIP is an exported tag artifact; PDF and certificate reside in tag
+d9c334beb51dc8b13151b282ccc378abec239035cf4d3709031e5203710432a6  POLYBRUTUS_D32_SOURCE_v0.1.0_GITHUB_TAG.zip
+89a9020ed99208b3820f8e109c2644e28e858da7ad7130a98b3d7f1712ef5d3b  publication/POLYBRUTUS_32D_NOTE.pdf
+66b7605ab168d99ee33014ed1d61b5fbb3915c32041bdf44dd529c0bb56bb016  results/certificate_d32.json
